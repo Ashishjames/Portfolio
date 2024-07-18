@@ -32,7 +32,7 @@
 - Utilized SQL SERVER to extract over 3 lakh records from 2 different related tables in Covid deaths databases using JOIN.
 - Utilized advanced SQL techniques like CTEs, Temp tables, window functions, and views, to perform intricate data analysis. 
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Covid](/asssets/covid.jpg)
 
 ### DATA PROFESSIONAL SURVEY: POWER BI ANALYSIS
 [Github](https://github.com/Ashishjames/Data_Professional_Survey_Analysis)
@@ -42,7 +42,7 @@
 - Processed raw survey data with Power Query Editor, ensuring accuracy and enhancing dataset quality for analysis.
 - Employed DAX and conditional formatting techniques in enhancing insights through impactful visualizations and charts.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Dashboard](/asssets/Dashboard_preview.JPG)
 
 ### ML- DRIVEN HEART DISEASE CLASSIFICATION
 [Github](https://github.com/Ashishjames/Heart-Disease-Classification)
@@ -51,7 +51,7 @@
 - Implemented diverse algorithms and tuned hyperparameters using RandomizedSearchCV and GridSearchCV.
 - Developed in Google Colab IDE using Python (NumPy, Pandas) and visualization libraries (Matplotlib, Seaborn).
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Heart](/asssets/Heart.jpg)
 
 ### BIKE BUYERS DATA EXPLORATION USING EXCEL
 [Github](https://github.com/Ashishjames/Bike-Buyers-Data-Exploration-using-Excel)
@@ -60,15 +60,14 @@
 - Utilized advanced pivot tables for in-depth statistical analysis, transforming complex data into actionable insights.
 - Conducted extensive data exploration on 1000+ bike buyers, employing conditional formatting and formulas for data cleaning.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Bike Study](/asssets/Dashboard.JPG)
 
   
 ## Certifications
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+- Data Science Professional Certification @ IBM
+- Advanced SQL certification @ HACKERANK
+- Azure AI Fundamental @ MICROSOFT
+- Summer Analytics 2022,Certificate of MERIT @ IIT GUWAHATI
+- Data analytics Virtual intern @ KPMG
 
 
