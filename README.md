@@ -5,7 +5,7 @@
 ## Education
 - BACHELOR OF TECHNOLOGY IN COMPUTER SCIENCE | GGSIPU (_CGPA : 9.1_)
   2020-2024							       	
-- 12TH HIGH SCHOOL– St Mary’s Sr Sec School (CGPA : 8.2)
+- 12TH HIGH SCHOOL | St Mary’s Sr Sec School (CGPA : 8.2)
   2018-2019
 
 ## Work Experience
